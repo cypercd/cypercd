@@ -12,15 +12,13 @@
   </p>
 
   <!-- A股风格访客计数器 -->
-  <table>
-    <tr>
-      <td align="center"><b>📈 SH.DC</b></td>
-      <td align="center"><img src="https://komarev.com/ghpvc/?username=cypercd&style=flat-square&color=FF0000&label=当前价" width="120" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/▲+涨停-FF0000?style=flat-square&labelColor=161b22" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/持仓人数-建仓中-FF0000?style=flat-square&labelColor=161b22" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/总市值-待估值-FF0000?style=flat-square&labelColor=161b22" /></td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/SH.DC-个人主页-c9d1d9?style=flat-square&labelColor=161b22" />
+    <img src="https://komarev.com/ghpvc/?username=cypercd&style=flat-square&color=FF0000&label=当前价" />
+    <img src="https://img.shields.io/badge/▲+涨停-FF0000?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/持仓人数-建仓中-FF0000?style=flat-square&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/总市值-待估值-FF0000?style=flat-square&labelColor=161b22" />
+  </p>
 
 </div>
 
