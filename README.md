@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  
+  <!-- 头部横幅 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Ding+Cong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=坚持梭哈大A，与国共进退&descAlignY=55" />
+  
+  # 👋 Hello, here is Ding Cong
 
-<!--
-**cypercd/cypercd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- 打字机动画 -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Quant+Researcher+%7C+Deep+Learning+Focused;数据驱动交易，代码构建+Alpha;坚持梭哈大A，与国共进退)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+  <!-- 社交媒体 -->
+  <p align="center">
+    <a href="https://github.com/cypercd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:congding0527@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- A股风格访客计数器 -->
+  <p>
+    <img src="https://img.shields.io/badge/SH.DC-个人主页-c9d1d9?style=for-the-badge&labelColor=161b22" />
+    <img src="https://komarev.com/ghpvc/?username=cypercd&style=for-the-badge&color=FF0000&label=当前价" />
+    <img src="https://img.shields.io/badge/▲+涨停-FF0000?style=for-the-badge&labelColor=161b22" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/github/followers/cypercd?style=for-the-badge&color=FF0000&labelColor=161b22&label=持仓人数" />
+    <img src="https://img.shields.io/github/stars/cypercd?style=for-the-badge&color=FF0000&labelColor=161b22&label=总市值" />
+  </p>
+
+</div>
+
+<!-- 分隔线 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+<!-- 技能与工具 -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  技能与工具
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,git,linux&perline=7" />
+</div>
+
+<!-- 分隔线 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+<!-- 页脚 -->
+<p align="center">
+  <i>Stay hungry, stay foolish. 🚀</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
