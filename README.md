@@ -1,12 +1,9 @@
 <div align="center">
   
   <!-- 头部横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Ding+Cong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=坚持梭哈大A，与国共进退&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=Ding+Cong&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=坚持梭哈大A，与国共进退&descAlignY=58&descSize=18" />
   
-  # 👋 Hello, here is Ding Cong
-
-  <!-- 打字机动画 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Quant+Researcher+%7C+Deep+Learning+Focused;数据驱动交易，代码构建+Alpha;坚持梭哈大A，与国共进退)](https://git.io/typing-svg)
+  ### Quant Researcher | Deep Learning Focused
 
   <!-- 社交媒体 -->
   <p align="center">
@@ -15,15 +12,15 @@
   </p>
 
   <!-- A股风格访客计数器 -->
-  <p>
-    <img src="https://img.shields.io/badge/SH.DC-个人主页-c9d1d9?style=for-the-badge&labelColor=161b22" />
-    <img src="https://komarev.com/ghpvc/?username=cypercd&style=for-the-badge&color=FF0000&label=当前价" />
-    <img src="https://img.shields.io/badge/▲+涨停-FF0000?style=for-the-badge&labelColor=161b22" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/github/followers/cypercd?style=for-the-badge&color=FF0000&labelColor=161b22&label=持仓人数" />
-    <img src="https://img.shields.io/github/stars/cypercd?style=for-the-badge&color=FF0000&labelColor=161b22&label=总市值" />
-  </p>
+  <table>
+    <tr>
+      <td align="center"><b>📈 SH.DC</b></td>
+      <td align="center"><img src="https://komarev.com/ghpvc/?username=cypercd&style=flat-square&color=FF0000&label=当前价" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/▲+涨停-FF0000?style=flat-square&labelColor=161b22" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/持仓人数-建仓中-FF0000?style=flat-square&labelColor=161b22" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/总市值-待估值-FF0000?style=flat-square&labelColor=161b22" /></td>
+    </tr>
+  </table>
 
 </div>
 
